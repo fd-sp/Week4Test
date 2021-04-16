@@ -1,0 +1,12 @@
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.ContextLayer\bin\Debug\netstandard2.0\AnagraficaClienti.EntitiesLayer.dll
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.ContextLayer\obj\Debug\netstandard2.0\AnagraficaClienti.ContextLayer.AssemblyInfoInputs.cache
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.ContextLayer\obj\Debug\netstandard2.0\AnagraficaClienti.ContextLayer.AssemblyInfo.cs
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.ContextLayer\obj\Debug\netstandard2.0\AnagraficaClienti.ContextLayer.csprojAssemblyReference.cache
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.ContextLayer\bin\Debug\netstandard2.0\AnagraficaClienti.ContextLayer.deps.json
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.ContextLayer\bin\Debug\netstandard2.0\AnagraficaClienti.ContextLayer.dll
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.ContextLayer\bin\Debug\netstandard2.0\AnagraficaClienti.ContextLayer.pdb
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.ContextLayer\bin\Debug\netstandard2.0\AnagraficaClienti.EntitiesLayer.pdb
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.ContextLayer\obj\Debug\netstandard2.0\AnagraficaClienti.ContextLayer.csproj.CoreCompileInputs.cache
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.ContextLayer\obj\Debug\netstandard2.0\AnagraficaClienti.ContextLayer.csproj.CopyComplete
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.ContextLayer\obj\Debug\netstandard2.0\AnagraficaClienti.ContextLayer.dll
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.ContextLayer\obj\Debug\netstandard2.0\AnagraficaClienti.ContextLayer.pdb

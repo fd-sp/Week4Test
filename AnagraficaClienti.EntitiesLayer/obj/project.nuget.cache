@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "30/ZCLZBImXEhSlrzeoi4CuWV9B41lMhvLbWmzQjTq2zcXhw7HLzFJcyhFyowR4hU6XEmNlDC22wNHqQi9aQvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\f.dell.ascenza\\source\\repos\\AnagraficaClienti.EntitiesLayer\\AnagraficaClienti.EntitiesLayer\\AnagraficaClienti.EntitiesLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f.dell.ascenza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\f.dell.ascenza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.EntitiesLayer\bin\Debug\netstandard2.0\AnagraficaClienti.EntitiesLayer.deps.json
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.EntitiesLayer\bin\Debug\netstandard2.0\AnagraficaClienti.EntitiesLayer.dll
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.EntitiesLayer\bin\Debug\netstandard2.0\AnagraficaClienti.EntitiesLayer.pdb
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.EntitiesLayer\obj\Debug\netstandard2.0\AnagraficaClienti.EntitiesLayer.csprojAssemblyReference.cache
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.EntitiesLayer\obj\Debug\netstandard2.0\AnagraficaClienti.EntitiesLayer.AssemblyInfoInputs.cache
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.EntitiesLayer\obj\Debug\netstandard2.0\AnagraficaClienti.EntitiesLayer.AssemblyInfo.cs
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.EntitiesLayer\obj\Debug\netstandard2.0\AnagraficaClienti.EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.EntitiesLayer\obj\Debug\netstandard2.0\AnagraficaClienti.EntitiesLayer.dll
+C:\Users\f.dell.ascenza\source\repos\AnagraficaClienti.EntitiesLayer\AnagraficaClienti.EntitiesLayer\obj\Debug\netstandard2.0\AnagraficaClienti.EntitiesLayer.pdb
